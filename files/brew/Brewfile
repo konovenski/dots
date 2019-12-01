@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "htop"
+brew "python"
+brew "python3"
+brew "git"

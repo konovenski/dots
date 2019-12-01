@@ -1,7 +1,8 @@
 - clean: ['~']
 
 - link:
-    ~/.gitconfig: files/gitconfig
-    ~/.zshrc: files/zshrc
+    ~/.gitconfig: files/dot/gitconfig
+    ~/.zshrc: files/dot/zshrc
 
-
+- brewfile:
+    - ./files/brew/Brewfile

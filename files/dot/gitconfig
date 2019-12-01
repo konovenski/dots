@@ -1,0 +1,6 @@
+[user]
+	email = dmitry.konovenschi@gmail.com
+	name = Dmitry Konovenski
+
+[core]
+    editor = nano
